@@ -2,7 +2,6 @@
   "name": "gorvic-data",
   "version": "1.0.0",
   "description": "Fake RESTful API data generator",
-  "engines": "^10.9.0",
   "main": "index.js",
   "scripts": {
     "json:server": "json-server --watch data.json"
