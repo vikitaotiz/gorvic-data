@@ -1,0 +1,33 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Vikita Otiz",
+      "age": 25
+    },
+    {
+      "id": "2",
+      "name": "Vincent Onyango",
+      "email": "vincentonyi@gmail.com",
+      "age": 22
+    },
+    {
+      "id": "3",
+      "name": "Victoria Wambui",
+      "email": "victoriawambui@gmail.com",
+      "age": 19
+    },
+    {
+      "id": "4",
+      "name": "Ann Kiguta",
+      "email": "annkiguta@gmail.com",
+      "age": 28
+    },
+    {
+      "id": "5",
+      "name": "Evans Juma",
+      "email": "evansjuma@gmail.com",
+      "age": 35
+    }
+  ]
+}
